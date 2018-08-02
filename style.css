@@ -58,6 +58,10 @@ html {
     text-transform: uppercase;
     letter-spacing: 1px;
   }
+  input {
+    background: #999;
+    border: 0;
+  }
   @media (max-width: 49.9375em) {
     body {
       width: 100%;
